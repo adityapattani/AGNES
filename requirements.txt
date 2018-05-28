@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+pyAudio
+pywin32
+playsound
+bs4
